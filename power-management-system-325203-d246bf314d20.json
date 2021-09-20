@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "power-management-system-325203",
+  "private_key_id": "d246bf314d200cd5f14501dfb64e2e14c4c67771",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCjeD/PoN19WVZN\nYi5T1YtD17kWtiXIrrJofLs1GmyLlBzbA7zasp6MMczte4dJYlYmPa8K8II0h0af\nlpSHSEJsZnzJutVByZ8EUzQjQC0peoCE1rJxg3sXjU+HAphDmMqRi7iumf4bFa+W\nOTl1RLgNC2U8FiP6gdI3bi3Ckfbwfk9GrhhakEFfE9Ssjdqw+XXyetOSjdIAISLj\nQfhhM0ZTCXCa/Z6OiRNfiGzpeUQZAqnfYoTKu6LHRYTIg0U4Eu8UE4iAN7DK5PKK\n/soZaCFThybPe7rBTZ9qC51HTVw++uFcmzEJn/vL/aNFSCEBQD2ej33WkIJzRsXf\nIVW9zBvlAgMBAAECggEAA/DmOO8758W7mun/C+5eCSiuQanqh0gO7Q30xXb5nvPX\nLkCM0Qj1YZPhyOftfwtr4EgkbDMYMIQCY96RfiFz2IEwCP0EHy3pM4V+AEuPyyw0\n5P74FlyBHzQ88phRa2/HknK35R25TpXbQdfnVrhtZ4Ma0bQG8gcnNkblu4chWPLo\nuTwVNTQQIja81IAkTzp6jrt6akGAEb92GkO9EENASbKmH9MkISB1C0/oOl5ZFlP6\nNEhd6p4vKNmgt9tqx4J1gCi7be+1j38v7eMa6HJdqyJdcIh9LQo2nFneO2phV4ue\nG3uJWhhSKOZx0GqrVIEZmKAsfR3rEzDR+f2/LYcoAQKBgQDdgm7Qtyw24IQ2s/M0\nT0NP54Xn9AR8T6jVmpqNOmzRBkjYQIovUwjxoR16ZUAkOaxfX8o0oiv1k/wfkxK6\nxXxAHcw/o3f82EGfVGhhgYwhwZqg5itcTZlbee5na7MfiOF9/N2WD4xGVkkCt2RP\nTIKh3Wjg6BhRJwU4u41RQEj6ZQKBgQC87Ex+hLlfrMJS6jA65h7aBMtBiSmv5bC1\n/x7HLoBfwjsddh0+lNfr/SEjZ0oQNVyvj2GEK8kRz//n4nXyUVW1qryoWVLnRsUe\niv9FqxiTvf1H30eqriHZ4cc+Ez1vmW1foZSjyTLGwrtRBbXYUijaVzk6NgTMqZmB\nBIOgJu/DgQKBgQCsP0sQvf+BxODK8O/D04cSUYUNM/FxATjWsVxRSgdoGyz2DGno\nFvezfYfAr49LHBXwLDq+5wSr+KFrpCBCYGMYMJOtQN6DHV8aGLb6a5Seg0BMse8x\n3Z3NRmmevl8RvI0sPT/J+tknsN0hYZ59E4/ZcqSlj5WpNWCYFy/y6LxXCQKBgQCK\n0yEKv0DwuyQ4hXpXbY4yKt+pEr+dT61gr03Qk60lsLZ72bV3rSxVbzaQq2/TJUMs\nhrHjy8D+49dqcBC3tWjEC+iB1NGEvY5P+VfHvAhdWHjr/XjORRL+5lfgl4bHoPis\nEzIEgO5c++9lhEqx4P3AI+QbkGJKej4gfk6yuqnpAQKBgQDD2xZwo9Drj9DT97Gp\nrCoyWKDZA6xezn5zk8+ZvLHTCJwUDpufmvdVGXGHcSdZDwc6CZs6OItCtpEQ5Ous\ntlhqMzCVsVQQgEbmL+0UhxyqOXPYxOXOTEtHq+oJ10CeLO4p3GkyRvhHjKxwH4Ls\ndnWJa4RRK6yMJRIGKZk/zueWeQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "power-management-system@power-management-system-325203.iam.gserviceaccount.com",
+  "client_id": "114161700841272781733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/power-management-system%40power-management-system-325203.iam.gserviceaccount.com"
+}
