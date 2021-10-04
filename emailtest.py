@@ -15,7 +15,7 @@ server.ehlo()
 server.starttls()
 
 
-server.login("ue209071.sachin.mech@gmail.com", "skyetw@ilmi")
+server.login("ue209071.sachin.mech@gmail.com", "*************")
 server.send_message(msg)
 #server.sendmail("ue209071.sachin.mech@gmail.com","skyetw20@gmail.com","test mail ")
 print("Done")
