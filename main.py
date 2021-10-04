@@ -85,7 +85,7 @@ def generate_bill_button():
     server = smtplib.SMTP('64.233.184.108',587)
     server.ehlo()
     server.starttls()
-    server.login("ue209071.sachin.mech@gmail.com", "skyetw@ilmi")
+    server.login("ue209071.sachin.mech@gmail.com", "************")
     server.send_message(create_message(c_u-c_u_billed))
     c_u_billed=c_u
     server.send_message(create_message(s_u-s_u_billed))
